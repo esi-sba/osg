@@ -2,6 +2,8 @@
 
 int main(){
 
-printf("hey \n");
+	printf("hey \n");
+	puts("hello from osg esi-sba");
 
-return 0;}
+	return 0;
+}
